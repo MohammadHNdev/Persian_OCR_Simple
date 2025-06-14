@@ -2,7 +2,7 @@
 
 **بهترین ابزار رایگان برای استخراج متن فارسی از PDF**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/username/ultimate-persian-ocr/blob/main/Ultimate_Persian_OCR.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MohammadHNdev/Persian_OCR_Simple/blob/main/Persian_OCR_Optimized.ipynb#scrollTo=o7TA7V3zoDqM)
 
 ## ✨ ویژگی‌ها
 
