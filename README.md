@@ -227,7 +227,7 @@ cd Persian_OCR_Simple
 
 ## 🔥 آماده شروع هستید؟
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MohammadHNdev/Persian_OCR_Simple/blob/main/Persian_OCR_Working.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MohammadHNdev/Persian_OCR_Simple/blob/main/Persian_OCR_Optimized.ipynb)
 
 **⭐ اگر مفید بود، فراموش نکنید ستاره بدهید! ⭐**
 
