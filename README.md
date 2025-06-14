@@ -209,7 +209,7 @@ cd Persian_OCR_Simple
 
 ## 📄 مجوز
 
-این پروژه تحت مجوز **MIT** منتشر شده است - برای جزئیات [LICENSE](LICENSE) را ببینید.
+این پروژه تحت مجوز **MIT** منتشر شده است - برای جزئیات [LICENSE](https://github.com/MohammadHNdev/Persian_OCR_Simple/blob/main/LICENSE.txt) را ببینید.
 
 ---
 
