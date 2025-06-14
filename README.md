@@ -9,7 +9,7 @@
 
 **استخراج متن فارسی از PDF و تصاویر با دقت فوق‌العاده**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MohammadHNdev/Persian_OCR_Simple/blob/main/Persian_OCR_Working.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MohammadHNdev/Persian_OCR_Simple/blob/main/Persian_OCR_Optimized.ipynb)
 
 </div>
 
@@ -30,7 +30,7 @@
 
 ### روش 1: یک کلیک در Colab (پیشنهادی)
 
-1. **کلیک کنید**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MohammadHNdev/Persian_OCR_Simple/blob/main/Persian_OCR_Working.ipynb)
+1. **کلیک کنید**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MohammadHNdev/Persian_OCR_Simple/blob/main/Persian_OCR_Optimized.ipynb)
 2. **همه سل‌ها را اجرا کنید** (Ctrl+F9)
 3. **فایل PDF خود را آپلود کنید**
 4. **منتظر باشید تا فرآیند تمام شود**
