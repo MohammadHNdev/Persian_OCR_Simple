@@ -39,8 +39,8 @@
 ### روش 2: دانلود و اجرا
 
 ```bash
-git clone https://github.com/MohammadHNdev/Persian_OCR_Simple.git
-cd Persian_OCR_Simple
+!git clone https://github.com/MohammadHNdev/Persian_OCR_Simple.git
+%cd Persian_OCR_Simple
 # باز کردن در Jupyter یا Google Colab
 ```
 
