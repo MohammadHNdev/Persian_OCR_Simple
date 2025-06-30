@@ -191,7 +191,7 @@
 
 ### 📞 **ارتباط:**
 - 📧 **Email**: [hosein.norozi434@gmail.com]
-- 💬 **Telegram**: [@DiamondcodeTech]
+- 💬 **Telegram**: [@ArvanCode]
 - 🐙 **GitHub**: [@MohammadHNdev](https://github.com/MohammadHNdev)
 
 ---
